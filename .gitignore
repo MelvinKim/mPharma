@@ -1,0 +1,7 @@
+venv
+env.sh
+.DS_Store
+postgres-data
+redis-data
+
+__pycache__/
